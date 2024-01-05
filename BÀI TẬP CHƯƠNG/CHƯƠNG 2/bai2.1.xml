@@ -1,0 +1,7 @@
+<?version = "1.0"? encoding = "UTF-8"?>
+<Company>
+    <name>Nguyễn Văn A</name>
+    <adress>địa chỉ a</adress>
+    <ContactNo>096677aaaa</ContactNo>
+    <TaxNum>12333333</TaxNum>
+</Company>
